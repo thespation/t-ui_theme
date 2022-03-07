@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<THEME>
+<custom_command_color value="#44475a"/>
+<input_color value="#ff79c6"/>
+<output_color value="#ffffffff"/>
+<bg_color value="#ff282a36"/>
+
+<device_color value="#ffffb86c"/>
+
+<battery_color_high value="#50fa7b"/>
+<battery_color_medium value="#f1fa8c"/>
+<battery_color_low value="#ff5555"/>
+<time_color value="#8be9fd"/>
+<storage_color value="#bd93f9"/>
+<ram_color value="#ff5555"/>
+<network_info_color value="#f1fa8c"/>
+<toolbar_bg value="#00000000"/>
+
+<!--toolbar_color value="#8be9fd"-->
+<toolbar_color value="#6272a4"/>
+<!--   #6272a4  comment color-->
+<!--   #44475a  selection color-->
+
+<enter_color value="#bd93f9"/>
+<cursor_color value="#ffffff"/>
+<overlay_color value="#00000000"/>
+
+
+<alias_content_color value="#1DE9B6"/>
+<!--alias_content_color value="#50fa7b"-->
+
+<statusbar_color value="#00000000"/>
+<navigationbar_color value="#ff000000"/>
+<app_installed_color value="#50fa7b"/>
+<app_uninstalled_color value="#ff5555"/>
+<hint_color value="#4CAF50"/>
+<mark_color value="#8be9fd"/>
+<notes_color value="#6272a4"/>
+<notes_locked_color value="#3D5AFE"/>
+<link_color value="#8be9fd"/>
+<restart_message_color value="#ffffffff"/>
+<weather_color value="#ff79c6"/>
+<unlock_counter_color value="#ffff9800"/>
+<session_info_color value="#9B6BDF"/>
+<status_lines_bgrectcolor value="#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000"/>
+<input_bgrectcolor value="#00000000"/>
+<output_bgrectcolor value="#00000000"/>
+<toolbar_bgrectcolor value="#00000000"/>
+<suggestions_bgrectcolor value="#00000000"/>
+<status_lines_bg value="#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000"/>
+<input_bg value="#00000000"/>
+<output_bg value="#00000000"/>
+<suggestions_bg value="#00000000"/>
+<status_lines_shadow_color value="#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000,#00000000"/>
+<input_shadow_color value="#00000000"/>
+<output_shadow_color value="#00000000"/>
+</THEME>

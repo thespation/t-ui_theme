@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTIFICATIONS>
+<show_notifications value="true"/>
+<app_notification_enabled_default value="true"/>
+<default_notification_color value="#ffffff"/>
+<!--notification_format value="%[#E4F34A]title %n%[#ffffff]text"-->
+
+<notification_format value=" %app :: %t %n %[50][#E4F34A]title : %[100][white]text"/>
+<click_notification value="true"/>
+<long_click_notification value="true"/>
+<notification_popup_exclude_app value="true"/>
+<notification_popup_exclude_notification value="true"/>
+<notification_popup_reply value="true"/>
+
+<!-- ENABLED -->
+
+<org.telegram.messenger enabled="true" color="#FF0088cc" format="1"/>
+<com.whatsapp enabled="true" color="#FF50fa7b" format="2"/>
+<com.twitter.android enabled="true" color="#FF01C9FC" format="3"/>
+<com.instagram.android enabled="true" color="#FFFC01C9" format="4"/>
+
+<com.android.server.telecom enabled="true" color="#FF8be9fd" format="5"/>
+<com.android.phone enabled="true" color="#FF8be9fd" format="5"/>
+ <!-- Phone  -->
+
+<com.android.mms enabled="true" color="#ffffb86c" format="6"/>
+<com.google.android.gm enabled="true" color="#fff0ff4a" format="7"/>
+<com.spotify.music enabled="true" color="#FF50fa7b" format="8"/>
+<com.google.android.youtube enabled="true" color="#FFff5555" format="9"/>
+<tv.twitch.android.app enabled="true" color="#FFbd93f9" format="10"/>
+
+<!-- formats for notification apps -->
+
+<format id="1" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+ <!-- Telegram -->
+
+<format id="2" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+ <!-- WhatsApp -->
+
+<format id="3" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+ <!-- Twitter -->
+
+<format id="4" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+ <!-- Instagram -->
+
+<format id="5" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+ <!-- Phone  -->
+
+<format id="6" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+ <!-- SMS  -->
+
+<format id="7" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+<!-- Gmail  -->
+
+<format id="8" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+ <!-- Spotify  -->
+
+<format id="9" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+ <!-- Youtube  -->
+
+<format id="10" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+ <!-- Twitch  -->
+
+<format id="11" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+ <!-- Termux  -->
+
+<!-- DISABLED -->
+
+<filter id="-1" value="null %nnull"/>
+
+</NOTIFICATIONS>

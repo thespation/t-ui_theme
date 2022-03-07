@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EXPERT>
+<show_help value="false"/>
+<show_call value="false"/>
+<show_exit value="false"/>
+<exit_password value=""/>
+<use_root value="true"/>
+<numbering_notes value="true"/>
+<custom_command_timeout value="600"/>
+<custom_command_size value="12"/>
+<show_custom_command value="true"/>
+<custom_command_index value="0"/>
+<termux_timeout value="300"/>
+
+
+<custom_command value="cat /storage/emulated/0/t-ui/header"/>
+
+</EXPERT>

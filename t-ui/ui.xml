@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UI>
+<battery_index value="2.1"/>
+<battery_size value="13"/>
+<bgrect_params value="2,0"/>
+<device_index value="2.0"/>
+<device_name value="note4 "/>
+ 
+<device_size value="13"/>
+ 
+<display_margin_mm value="0,1,0,0"/>
+<enable_battery_status value="true"/>
+ 
+<fullscreen value="true"/>
+ 
+<ignore_bar_color value="false"/>
+ 
+<input_area_margins value="3,3,0,0"/>
+ 
+<input_bottom value="true"/>
+ 
+<input_field_margins value="3,3,0,0"/>
+<input_output_size value="14"/>
+ 
+<input_prefix value=""/>
+ 
+<input_root_prefix value="#"/>
+ 
+<network_index value="5"/>
+ 
+<network_size value="13"/>
+ 
+<notes_divider value="%n"/>
+ 
+<notes_footer value="%(%n - --- ----- --- -%n/)"/>
+<notes_header value="%( ---- Notas : %c ----%n/Sem notas %n)"/>
+ 
+<notes_index value="8"/>
+<notes_max_lines value="10"/>
+<notes_size value="13"/>
+<output_field_margins value="3,3,0,0"/>
+<ram_index value="4"/>
+<ram_size value="13"/>
+<shadow_params value="2,2,0.2"/>
+<show_app_installed value="true"/>
+<show_app_uninstalled value="true"/>
+<show_battery value="true"/>
+ 
+<show_device_name value="true"/>
+ 
+<show_enter_button value="true"/>
+ 
+<show_network_info value="true"/>
+ 
+<show_notes value="false"/>
+<show_ram value="true"/>
+<show_restart_message value="false"/>
+<show_scroll_notes_message value="true"/>
+<show_session_info value="true"/>
+<show_storage_info value="true"/>
+<show_time value="true"/>
+<show_unlock_counter value="true"/>
+<show_weather value="false"/>
+<status_lines_alignment value="0,0,0,0,0,0"/>
+ 
+<status_lines_margins value="3,3,0,0"/>
+<statusbar_light_icons value="true"/>
+ 
+<storage_index value="3"/>
+<storage_size value="13"/>
+<suggestions_area_margin value="3,3,0,0"/>
+<system_font value="false"/>
+<system_wallpaper value="true"/>
+<text_redraw_times value="1"/>
+<time_index value="1"/>
+<time_size value="35"/>
+<toolbar_margins value="3,3,0,0"/>
+<unlock_index value=""/>
+<unlock_size value="13"/>
+<username value="user"/>
+ 
+<weather_index value="6"/>
+<weather_size value="13"/>
+<deviceName value="note4"/>
+</UI>

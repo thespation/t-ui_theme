@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<APPS>
+<default_app_n1 value="null"/>
+<default_app_n2 value="null"/>
+<default_app_n3 value="null"/>
+<default_app_n4 value="null"/>
+<default_app_n5 value="null"/>
+<app_groups_sorting value="0"/>
+<com.itau-br.com.itau.pf.ui.activity.SplashActivity_ show="false"/>
+<com.nu.production-br.com.nubank.app.ProxyActivity show="false"/>
+<com.whatsapp-com.whatsapp.Main show="false"/>
+</APPS>
