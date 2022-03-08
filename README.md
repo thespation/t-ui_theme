@@ -58,5 +58,8 @@ ou
 `config -set username NomeDesejado` e `restart` em seguida<br>
 
 # Documentação
-* [TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/wiki)
-
+* [Wiki](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/wiki)
+   * [Recursos](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/wiki#features)
+   * [Customização](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/wiki#customization)
+   * [Como fazer](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/wiki#how-to)
+  * [FAQ](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/wiki#faq)
