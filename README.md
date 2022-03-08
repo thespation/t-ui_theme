@@ -41,6 +41,9 @@ Caso queira reabilitar, execute:
 
 `config -set system_wallpaper true` e `restart` em seguida
 
+## Atalhos e ícones
+Para modificar os ícones de atalhos que estão na parte inferior da tela, edite o arquivo `alias.txt`
+
 ## Nome de usuário
 Para acrecentar o seu nome de usuário, edite o arquivo `ui.xml` e altere o valo *user* para o desejado (linha 80)
 `<username value="user"/>`
