@@ -9,7 +9,7 @@ Instale pela sua loja de aplicativos, segue o link para Google Play Store: [Linu
 # Usando o tema
 Com o launcher instalado, clone o repositório, descompacte e jogue a pasta na raiz do seu celular Android.<br>
 
-**Obs:** A pasta precisa estar com o nome `t-ui`, provavelmente já terá uma, basta renomear a antiga.
+**Obs:** A pasta precisa estar com o nome `t-ui`, provavelmente já terá uma, basta renomear a antiga e jogar no lugar a que clonou aqui.
 
 # Personalização
 ## Ativar ou desativar exibição de clima
