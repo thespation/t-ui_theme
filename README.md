@@ -1,8 +1,7 @@
-# t-ui_theme
-T-UI Launcher tema
+# T-UI Launcher tema
 
 # Instalação do Launcher
-Instale o Launcher pela sua loja de aplicativos, segue o link para Google Play Store: [Linux CLI Launcher](https://play.google.com/store/apps/details?id=ohi.andre.consolelauncher&hl=pt-BR).
+Instale pela sua loja de aplicativos, segue o link para Google Play Store: [Linux CLI Launcher](https://play.google.com/store/apps/details?id=ohi.andre.consolelauncher&hl=pt-BR).
 
 # Usando o tema
 Com o launcher instalado, clone o repositório, descompacte e jogue a pasta na raiz do seu celular Android.<br>
@@ -11,22 +10,26 @@ Com o launcher instalado, clone o repositório, descompacte e jogue a pasta na r
 
 # Personalização
 ## Ativar ou desativar exibição de clima
-### Tela com clima ativo:
 Por padrão está desabilitado, para ativar execute o comando:
 * `$ tuiweather -enable`<br>
 ou
 * `$ config -set -show-weather true` e `restart` em seguida
 
+### Tela com clima ativo:
+
 |1|2|
 |-|-|
 |![Screenshot_2022-03-08-10-51-55-475_ohi andre consolelauncher](https://user-images.githubusercontent.com/84329097/157251902-562557bc-db93-4506-9ba1-fc1bf07a078e.jpg)|![Screenshot_2022-03-08-10-52-47-773_ohi andre consolelauncher](https://user-images.githubusercontent.com/84329097/157251926-69d56091-3d6a-4de7-9c0f-b4c2b6029f09.jpg)|
 
-### Tela com clima inativo:
-Caso tenha habilitado que queira desabilitar, rode o comando:
+<hr>
+
+Caso tenha habilitado e queira desabilitar, rode o comando:
 
 * `$ tuiweather -disable`<br>
 ou
 * `$ config -set -show-weather false` e `restart` em seguida
+
+### Tela com clima inativo:
 
 |1|2|
 |-|-|
