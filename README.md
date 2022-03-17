@@ -1,4 +1,4 @@
-# T-UI Launcher
+# Tema para T-UI Launcher
 T-UI Linux CLI Launcher é um lançador gratuito baseado em texto para android.
 
 É distribuído sob licença GPL com algumas reservas por seu criador [Francesco Andreuzzi](https://github.com/fAndreuzzi).
