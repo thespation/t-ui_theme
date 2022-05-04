@@ -53,12 +53,14 @@ Caso queira reabilitar, execute:
 Para modificar os ícones de atalhos que estão na parte inferior da tela, edite o arquivo `alias.txt`
 
 ## Nome de usuário
-Para acrescentar o seu nome de usuário, edite o arquivo `ui.xml` e altere o valo *user* para o desejado (linha 80)
-`<username value="user"/>`
+Para acrescentar o seu nome de usuário, rode os comandos:
+
+`config -set username NomeDesejado` e `restart` em seguida<br>
 
 ou
 
-`config -set username NomeDesejado` e `restart` em seguida<br>
+Edite o arquivo `ui.xml` e altere o valo *user* para o desejado (linha 80)
+`<username value="user"/>`
 
 # Documentação
 * [Wiki](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/wiki)
