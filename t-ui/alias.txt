@@ -1,13 +1,12 @@
 =Telefone
-=google Mensagens
+=Google Mensagens
 =com.android.camera
-=Brave
+=Opera
 =gmail
 =Agenda
 =Relógio
-=Tocador de Pastas de Música Full
+=Spotify
 =Gerenciador de arquivos
 =apps -frc whatsapp 
-=telegram
-
+=apps -frc Telegram X
 =restart
