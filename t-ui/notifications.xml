@@ -14,55 +14,59 @@
 
 <!-- ENABLED -->
 
-<org.telegram.messenger enabled="true" color="#FF0088cc" format="1"/>
-<com.whatsapp enabled="true" color="#FF50fa7b" format="2"/>
-<com.twitter.android enabled="true" color="#FF01C9FC" format="3"/>
-<com.instagram.android enabled="true" color="#FFFC01C9" format="4"/>
+<!-- Comunicação -->
+<org.telegram.messenger enabled="true" color="#FF0088cc" format="11"/> <!-- Telegram -->
+<org.thunderdog.challegram enabled="true" color="#FF0088cc" format="12"/> <!-- Telegram X -->
+<com.whatsapp enabled="true" color="#FF50fa7b" format="13"/>
+<com.twitter.android enabled="true" color="#FF01C9FC" format="14"/>
+<com.instagram.android enabled="true" color="#FFFC01C9" format="15"/>
+<tv.twitch.android.app enabled="true" color="#FFbd93f9" format="16"/>
 
-<com.android.server.telecom enabled="true" color="#FF8be9fd" format="5"/>
-<com.android.phone enabled="true" color="#FF8be9fd" format="5"/>
- <!-- Phone  -->
+<!-- Serviços / Celular -->
+<com.android.server.telecom enabled="true" color="#FF8be9fd" format="21"/>
+<com.android.phone enabled="true" color="#FF8be9fd" format="22"/>
+<com.android.vending enabled="true" color="#FF8be9fd" format="23"/>
+<com.android.mms enabled="true" color="#ffffb86c" format="24"/>
+<com.android.providers.contacts enabled="true" color="#FF8be9fd" format="25"/>
+<com.android.deskclock enabled="true" color="#FF8be9fd" format="26"/>
+ 
+<!-- Google  -->
+<com.google.android.gm enabled="true" color="#fff0ff4a" format="31"/> <!-- Gmail  -->
+<com.google.android.gms enabled="true" color="#FF8be9fd" format="32"/> <!-- Google Play Services  -->
 
-<com.android.mms enabled="true" color="#ffffb86c" format="6"/>
-<com.google.android.gm enabled="true" color="#fff0ff4a" format="7"/>
-<com.spotify.music enabled="true" color="#FF50fa7b" format="8"/>
-<com.google.android.youtube enabled="true" color="#FFff5555" format="9"/>
-<tv.twitch.android.app enabled="true" color="#FFbd93f9" format="10"/>
+<!-- Musica -->
+<com.spotify.music enabled="true" color="#FF50fa7b" format="41"/>
+<com.google.android.youtube enabled="true" color="#FFff5555" format="42"/>
+<de.zorillasoft.musicfolderplayer.donate enabled="true" color="#FF50fa7b" format="43"/>
+<com.bhandari.music enabled="true" color="#FF50fa7b" format="44"/>
 
 <!-- formats for notification apps -->
 
-<format id="1" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
- <!-- Telegram -->
+<!-- Comunicação -->
+<format id="11" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Telegram -->
+<format id="12" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Telegram X-->
+<format id="13" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- WhatsApp -->
+<format id="14" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Twitter -->
+<format id="15" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Instagram -->
+<format id="16" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Twitch -->
 
-<format id="2" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
- <!-- WhatsApp -->
+<!-- Serviços / Celular -->
+<format id="21" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+<format id="22" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+<format id="23" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+<format id="24" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
+<format id="25" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> 
+<format id="26" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Relógio -->
 
-<format id="3" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
- <!-- Twitter -->
+<!-- Google  -->
+<format id="31" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Gmail -->
+<format id="32" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Google Play Services -->
 
-<format id="4" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
- <!-- Instagram -->
-
-<format id="5" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
- <!-- Phone  -->
-
-<format id="6" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
- <!-- SMS  -->
-
-<format id="7" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
-<!-- Gmail  -->
-
-<format id="8" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
- <!-- Spotify  -->
-
-<format id="9" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
- <!-- Youtube  -->
-
-<format id="10" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
- <!-- Twitch  -->
-
-<format id="11" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
- <!-- Termux  -->
+<!-- Musica  -->
+<format id="41" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Spotify -->
+<format id="42" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Youtube -->
+<format id="43" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Music Folder Player -->
+<format id="44" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- AB Music -->
 
 <!-- DISABLED -->
 
