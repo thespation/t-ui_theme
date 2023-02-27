@@ -9,4 +9,8 @@
 <com.itau-br.com.itau.pf.ui.activity.SplashActivity_ show="false"/>
 <com.nu.production-br.com.nubank.app.ProxyActivity show="false"/>
 <com.whatsapp-com.whatsapp.Main show="false"/>
+<com.itau-br.com.itau.pf.ui.activity.SplashActivity show="false"/>
+<com.nu.production-br.com.nubank.app.SplashScreenActivity show="false"/>
+<org.telegram.messenger-org.telegram.messenger.DefaultIcon show="false"/>
+<org.thunderdog.challegram-org.thunderdog.challegram.MainActivity show="false"/>
 </APPS>

@@ -29,6 +29,8 @@
 <com.android.mms enabled="true" color="#ffffb86c" format="24"/>
 <com.android.providers.contacts enabled="true" color="#FF8be9fd" format="25"/>
 <com.android.deskclock enabled="true" color="#FF8be9fd" format="26"/>
+<com.android.incallui enabled="true" color="#FF8be9fd" format="27"/>
+<com.google.android.apps.messaging enabled="true" color="#FF8be9fd" format="28"/> <!-- Google Mensagens  -->
  
 <!-- Google  -->
 <com.google.android.gm enabled="true" color="#fff0ff4a" format="31"/> <!-- Gmail  -->
@@ -54,9 +56,11 @@
 <format id="21" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
 <format id="22" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
 <format id="23" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
-<format id="24" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/>
-<format id="25" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> 
+<format id="24" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Mensagens  -->
+<format id="25" value=" Contatos :: %t %n╚═⌬ %[#FFFFFFFF]text"/> 
 <format id="26" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Relógio -->
+<format id="27" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Ligação Telefonica -->
+<format id="28" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Google Mensagens  -->
 
 <!-- Google  -->
 <format id="31" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Gmail -->
@@ -65,7 +69,7 @@
 <!-- Musica  -->
 <format id="41" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Spotify -->
 <format id="42" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Youtube -->
-<format id="43" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Music Folder Player -->
+<format id="43" value=" Music Folder Player :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- Music Folder Player -->
 <format id="44" value=" %app :: %t %n╚═⌬ %[#FFFFFFFF]title : %[#FFFFFFFF]text"/> <!-- AB Music -->
 
 <!-- DISABLED -->

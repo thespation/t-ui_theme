@@ -1,12 +1,12 @@
 =Telefone
-=Google Mensagens
+=Mensagens
 =com.android.camera
 =Opera
 =gmail
 =Agenda
 =Relógio
-=Spotify
+=Spotify
 =Gerenciador de arquivos
-=apps -frc whatsapp 
+=apps -frc WhatsApp
 =apps -frc Telegram X
 =restart

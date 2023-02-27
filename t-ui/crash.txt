@@ -1,16 +1,16 @@
 
 
 java.lang.IllegalArgumentException: Comparison method violates its general contract!
-	at java.util.TimSort.mergeLo(TimSort.java:773)
-	at java.util.TimSort.mergeAt(TimSort.java:510)
-	at java.util.TimSort.mergeCollapse(TimSort.java:437)
-	at java.util.TimSort.sort(TimSort.java:241)
-	at java.util.Arrays.sort(Arrays.java:1450)
-	at it.andreuzzi.comparestring2.CompareObjects.a()
-	at it.andreuzzi.comparestring2.CompareObjects.a()
-	at ohi.andre.consolelauncher.managers.suggestions.i.c()
-	at ohi.andre.consolelauncher.managers.suggestions.i.a()
-	at ohi.andre.consolelauncher.managers.suggestions.i.a()
-	at ohi.andre.consolelauncher.managers.suggestions.h.run()
+	at java.util.TimSort.mergeLo(TimSort.java:777)
+	at java.util.TimSort.mergeAt(TimSort.java:514)
+	at java.util.TimSort.mergeCollapse(TimSort.java:441)
+	at java.util.TimSort.sort(TimSort.java:245)
+	at java.util.Arrays.sort(Arrays.java:1432)
+	at it.andreuzzi.comparestring2.CompareObjects.a(Unknown Source:63)
+	at it.andreuzzi.comparestring2.CompareObjects.a(Unknown Source:6)
+	at ohi.andre.consolelauncher.managers.suggestions.i.c(Unknown Source:129)
+	at ohi.andre.consolelauncher.managers.suggestions.i.a(Unknown Source:34)
+	at ohi.andre.consolelauncher.managers.suggestions.i.a(Unknown Source:360)
+	at ohi.andre.consolelauncher.managers.suggestions.h.run(Unknown Source:68)
 
 ----------------------------

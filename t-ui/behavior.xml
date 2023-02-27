@@ -3,10 +3,10 @@
 <double_tap_lock value="true"/>
 <double_tap_cmd value=""/>
 <random_play value="true"/>
-<songs_folder value=""/>
+<songs_folder value="/storage/6AAB-1CF2/Musicas"/>
 <songs_from_mediastore value="true"/>
 <tui_notification value="false"/>
-<auto_show_keyboard value="true"/>
+<auto_show_keyboard value="false"/>
 <auto_scroll value="true"/>
 <show_hints value="true"/>
 <show_alias_content value="true"/>
@@ -29,20 +29,21 @@
 <session_info_format value="%u %p"/>
 <enable_app_launch value="true"/>
 <app_launch_format value=" Abrindo %l..."/>
-<alias_param_marker value="%"/>
+<alias_param_marker value="true"/>
 <alias_param_separator value=","/>
 <alias_replace_all_markers value="true"/>
 <multiple_cmd_separator value=";"/>
 <alias_content_format value="%a --&gt; [%v]"/>
 <external_storage_path value=""/>
 <home_path value="/storage/emulated/0"/>
-<app_installed_format value="%l was installed"/>
-<app_uninstalled_format value="%l was uninstalled"/>
+<app_installed_format value="%l app foi atualizado"/>
+<app_uninstalled_format value="%l antigo foi removido"/>
+ --&gt;
 <enable_music value="true"/>
 <max_optional_depth value="2"/>
 <network_info_update_ms value="3500"/>
-<tui_notification_title value="T-UI"/>
-<tui_notification_subtitle value="T-UI is running"/>
+<tui_notification_title value="true"/>
+<tui_notification_subtitle value="T-UI em execução"/>
 <tui_notification_click_cmd value=""/>
 <tui_notification_click_showhome value="true"/>
 <tui_notification_lastcmds_size value="5"/>
@@ -58,7 +59,7 @@
 <notes_allow_link value="true"/>
 <orientation value="2"/>
 <htmlextractor_default_format value="%t -&gt; %v%n%a(%an = %av)(%n)"/>
-<htmlextractor_notfound_message value="Not found"/>
+<htmlextractor_notfound_message value="Não encontrado"/>
 <tui_notification_time_color value="#03A9F4"/>
 <tui_notification_input_color value="#ff00ff00"/>
 <weather_key value="1f798f99228596c20ccfda51b9771a86"/>
@@ -66,14 +67,15 @@
 <weather_location value=""/>
 <weather_format value="%main #[Clear/&#55356;&#57118;][Clouds/☁️][Scattered clouds/☁️][Broken clouds/☁️][Shower rain/&#55356;&#57127;️][Rain/&#55356;&#57127;️][Thunderstorm/&#55356;&#57129;️][Snow/&#55356;&#57128;️][Mist/&#55356;&#57131;️]%main, &#55356;&#57121;%temp°C (%temp_max°/%temp_min°)"/>
 <clear_on_lock value="false"/>
-<unlock_counter_format value="Desbloqueado %c vezes (%a10/)%n%t(n. %i --&gt;  %w)3"/>
+<unlock_counter_format value="Desbloqueado %c vezes %n%t(n. %i --&gt;  %w)3"/>
 <unlock_time_divider value="%n"/>
 <unlock_time_order value="1"/>
-<unlock_counter_cycle_start value="6.00"/>
+<unlock_counter_cycle_start value="00.01"/>
 <not_available_text value="n/a"/>
 <back_button_enabled value="true"/>
 <weather_update_time value="3600"/>
 <location_update_mintime value="20"/>
 <location_update_mindistance value="500"/>
 <show_weather_updates value="true"/>
+<app_uninstalled_format value="App uninstalled: %p"/>
 </BEHAVIOR>

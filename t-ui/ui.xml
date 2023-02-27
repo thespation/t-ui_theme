@@ -59,7 +59,7 @@
 <show_session_info value="true"/>
 <show_storage_info value="true"/>
 <show_time value="true"/>
-<show_unlock_counter value="true"/>
+<show_unlock_counter value="false"/>
 <show_weather value="false"/>
 <status_lines_alignment value="0,0,0,0,0,0"/>
  
@@ -77,9 +77,9 @@
 <toolbar_margins value="3,3,0,0"/>
 <unlock_index value=""/>
 <unlock_size value="13"/>
-<username value="user"/>
+<username value="thespation"/>
  
 <weather_index value="6"/>
 <weather_size value="13"/>
-<deviceName value="note4"/>
+<deviceName value="Redmi5"/>
 </UI>
